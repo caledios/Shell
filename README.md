@@ -1,4 +1,4 @@
 shell
 =====
 
-Shell
+Shell-based scripts, configurations, tools, etc.
