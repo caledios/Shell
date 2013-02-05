@@ -15,3 +15,7 @@ system.
 
 1's are aliases and function calls, e.g. 1scanlog, 1svndiff, 1scandb, 1flushlog.
 2's are for moving locations, e.g. 2workspace, 2music, 2projects, 2projectsfive.
+
+NOTE: some variable or function definitions will not be included here because they
+contain company sensitive information. Therefore some functions or scripts will
+need some adjustments before they are ready for use.
