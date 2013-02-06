@@ -1,5 +1,11 @@
 #===============================================================================
 # Eclipse runner
+#
+# The goal here is a single click or button press in Eclipse (which executes 
+# this script via the External Tool feature) will perform all or as many of the
+# necessary steps as possible to verify the results of code changes made. This
+# may include cleaning, rebuilding, DB priming, redeploying, retesting, and
+# output analysis.
 #===============================================================================
 
 junit=$resources/lib/external/junit-3.8.2.jar
