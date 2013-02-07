@@ -21,5 +21,15 @@ alias 1scanlogaudit="sh $scripts/Common/scanlog/scan_log_audit.sh"
 alias 1scanlogjboss="sh $scripts/Common/scanlog/scan_log_jboss.sh"
 alias 1scanlogliferay="sh $scripts/Common/scanlog/scan_log_liferay.sh"
 
+#===============================================================================
+# LOCATIONS
+#===============================================================================
+
+alias 2downloads="cd ~/Downloads; 1pwd"
+alias 2resources="cd $resources; 1pwd"
+alias 2scripts="cd $scripts; 1pwd"
+alias 2systems="cd $systems; 1pwd"
+alias 2tmp="cd $temporary; 1pwd"
+alias 2apps="cd $apps; 1pwd"
 
 
